@@ -1,8 +1,10 @@
-alert("Welcome!")
+//alert("Welcome!")
 
 function colorAleatorio(){
 
-    let rm = Math.random(0);
+    let rm = Math.floor(Math.random() * 3);
+    console.log(rm);
+    
     switch(rm){
         case 0:
             document.getElementById("h5").style.color = "green";
