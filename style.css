@@ -2,4 +2,24 @@ html {
     height: 100%;
     width: 100%;
   }
+/* Fondo gris para toda la página */
+body {
+  background-color: gray;
+}
+
+/* Todos los h3 en verde por defecto */
+h3 {
+  color: green;
+}
+
+/* Clase para aplicar color azul */
+.azul {
+  color: blue;
+}
+
+/* Clase para un h3 en rojo */
+.rojo {
+  color: red;
+}
+
   
