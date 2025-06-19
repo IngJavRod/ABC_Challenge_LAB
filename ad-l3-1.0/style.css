@@ -3,3 +3,20 @@ html {
     width: 100%;
   }
    
+body{
+  background-color: gray;
+
+}
+
+h3{
+  color: green;
+}
+
+.azul{
+  color: blue;
+}
+
+#red{
+  color: red;
+
+}
